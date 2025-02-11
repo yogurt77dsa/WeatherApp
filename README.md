@@ -1,29 +1,28 @@
-# 🌦️ WeatherVision - Прогноз погоды в реальном времени
+# 🌦️ WeatherVision - Real-Time Weather Forecast
 
-**WeatherVision** — это элегантное и простое в использовании веб-приложение, которое показывает текущую погоду в любом городе мира. Получите актуальные данные о температуре, влажности, скорости ветра и другие параметры, используя OpenWeather API.
+**WeatherVision** is an elegant and easy-to-use web application that shows the current weather in any city around the world. Get up-to-date data on temperature, humidity, wind speed, and other parameters using the OpenWeather API.
 
-## 🚀 Особенности
-- 🌍 **Мировой прогноз**: Узнайте погоду для любого города.
-- ☀️ **Текущая температура и погода**: Покажет текущую температуру, описание погоды и основные параметры.
-- 🌬 **Данные о ветре и влажности**: Узнайте скорость ветра и уровень влажности воздуха.
-- 🎨 **Современный интерфейс**: Элегантный и удобный интерфейс с минималистичным дизайном.
-- 🌙 **Темная тема**: Плавный переход между светлой и темной темой для ночных пользователей.
+## 🚀 Features
+- 🌍 **Global Forecast**: Check the weather for any city.
+- ☀️ **Current Temperature and Weather**: Shows the current temperature, weather description, and key parameters.
+- 🌬 **Wind and Humidity Data**: Get wind speed and humidity level.
+- 🎨 **Modern Interface**: Elegant and user-friendly interface with a minimalist design.
+- 🌙 **Dark Mode**: Smooth transition between light and dark themes for nighttime users.
 
-## 🛠 Технологии
-- **HTML** – Структура приложения
-- **CSS** – Стильный дизайн с адаптивной версткой
-- **JavaScript** – Логика приложения, обработка API-запросов
-- **OpenWeather API** – Источник данных о погоде
+## 🛠 Technologies
+- **HTML** – The structure of the app
+- **CSS** – Stylish design with a responsive layout
+- **JavaScript** – Application logic, API requests handling
+- **OpenWeather API** – Weather data source
 
-## 📸 Скриншоты
+## 📸 Screenshots
+![Main Page](./img/1.png)  
+![Main Page](./img/2.png)  
+![Main Page](./img/3.png)  
+*Real-time weather forecast for the city.*
 
-![Главная страница](./img/1.png)  
-![Главная страница](./img/2.png)
-![Главная страница](./img/3.png)
-*Прогноз погоды в реальном времени для города.*
+## 🔥 Demo
 
-## 🔥 Демо
-
-Вы можете попробовать приложение в действии по следующей [ссылке](https://your-live-demo-link.com).
+You can try the application in action by following this [link]([https://your-live-demo-link.com](https://yogurtt77.github.io/WeatherApp/).
 
 
