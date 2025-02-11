@@ -23,6 +23,6 @@
 
 ## 🔥 Demo
 
-You can try the application in action by following this [link]([https://your-live-demo-link.com](https://yogurtt77.github.io/WeatherApp/).
+You can try the application in action by following this https://yogurtt77.github.io/WeatherApp/
 
 
