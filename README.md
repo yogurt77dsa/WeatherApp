@@ -21,6 +21,22 @@
 ![Main Page](./img/3.png)  
 *Real-time weather forecast for the city.*
 
+## 🚀 Installation  
+
+1. Clone the repository:  
+
+   ```bash
+   git clone https://github.com/yogurtt77/WeatherApp.git
+2. Navigate to the project folder:
+   ```bash
+   cd weather-app
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the development server:
+   npm start
+
+
 ## 🔥 Demo
 
 You can try the application in action by following this https://yogurtt77.github.io/WeatherApp/
